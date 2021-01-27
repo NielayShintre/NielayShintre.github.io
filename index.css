@@ -1,0 +1,26 @@
+#title{
+    font-family: 'Architects Daughter', cursive;
+}
+.text{
+    position:absolute;
+    top: 10%;
+    width: 100%;
+    text-align: center;
+    color:floralwhite;
+    font-size: 50px;
+  
+}
+#top{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background:#E8703C;
+}
+#bottom{
+    padding-bottom: 20px;
+     background: #E8703C;
+}
+#map{
+    height: 40% !important;
+    width:100%  !important;
+    text-align: center;
+}
